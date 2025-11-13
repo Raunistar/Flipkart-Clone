@@ -28,4 +28,3 @@ A responsive, mobile-first e-commerce interface clone of Flipkart built with mod
 - **Deployment:** Netlify
 - **Version Control:** Git & GitHub
 
-## 📁 Project Structure
